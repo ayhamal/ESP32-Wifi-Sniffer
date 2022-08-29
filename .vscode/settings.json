@@ -1,11 +1,14 @@
 {
     "cSpell.words": [
+        "devkit",
         "GPIO",
         "ipkt",
         "nchan",
         "netif",
+        "Pinout",
         "ppkt",
         "rssi",
-        "schan"
+        "schan",
+        "WROOM"
     ]
 }
